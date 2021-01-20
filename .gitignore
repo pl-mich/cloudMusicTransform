@@ -338,3 +338,10 @@ ASALocalRun/
 
 # BeatPulse healthcheck temp database
 healthchecksdb
+
+# Batch file and shortcuts with explicit references to addresses on my own computer
+*.bat
+*.lnk
+
+# Generated music files
+*.mp3
